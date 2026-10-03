@@ -1,0 +1,18 @@
+{
+  "name": "swiggy-jev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^2.24.0",
+    "@typesafe-ai/sdk": "^0.6.0",
+    "ai": "^7.0.118",
+    "zod": "^4.6.5"
+  }
+}

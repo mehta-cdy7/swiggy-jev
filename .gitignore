@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment variables & secrets
+.env
+.env.*
+.env.local
+!.env.example
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

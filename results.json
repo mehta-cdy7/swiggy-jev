@@ -1,0 +1,1886 @@
+{
+  "14594147320": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.51,
+      "confidence": 0.39,
+      "ms": 514.5221250000001,
+      "model": "jev-1.13.0",
+      "inputTokens": 430,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "other",
+      "ms": 10450.54975,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 125,
+      "outputTokens": 444
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 822.1305,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 226,
+      "outputTokens": 58
+    }
+  },
+  "14594144450": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 350.36754199999996,
+      "model": "jev-1.13.0",
+      "inputTokens": 423,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "service",
+      "ms": 13762.452624999998,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 119,
+      "outputTokens": 256
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 558.5809589999999,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 220,
+      "outputTokens": 28
+    }
+  },
+  "14594012822": {
+    "jev": {
+      "answer": "bug",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 533.7555,
+      "model": "jev-1.13.0",
+      "inputTokens": 461,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "bug",
+      "ms": 10791.223040999997,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 154,
+      "outputTokens": 277
+    },
+    "llm": {
+      "answer": "bug",
+      "ms": 475.33641700000044,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 256,
+      "outputTokens": 34
+    }
+  },
+  "14593366207": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 354.8482080000001,
+      "model": "jev-1.13.0",
+      "inputTokens": 444,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "service",
+      "ms": 25014.098167000004,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 141,
+      "outputTokens": 260
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 536.4367920000004,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 242,
+      "outputTokens": 23
+    }
+  },
+  "14593182158": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 376.4916659999999,
+      "model": "jev-1.13.0",
+      "inputTokens": 489,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "service",
+      "ms": 16177.931540999998,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 186,
+      "outputTokens": 185
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 614.8453749999971,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 286,
+      "outputTokens": 43
+    }
+  },
+  "14592927048": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 0.99,
+      "ms": 389.09083299999975,
+      "model": "jev-1.13.0",
+      "inputTokens": 429,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "service",
+      "ms": 15066.28783300001,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 124,
+      "outputTokens": 208
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 407.0269999999982,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 225,
+      "outputTokens": 40
+    }
+  },
+  "14592885430": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 405.99420800000007,
+      "model": "jev-1.13.0",
+      "inputTokens": 480,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "service",
+      "ms": 10023.430334000004,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 180,
+      "outputTokens": 333
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 572.1127919999999,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 277,
+      "outputTokens": 21
+    }
+  },
+  "14592856634": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 716.6080829999996,
+      "model": "jev-1.13.0",
+      "inputTokens": 573,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "service",
+      "ms": 11870.181666999997,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 267,
+      "outputTokens": 391
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 456.8413330000003,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 366,
+      "outputTokens": 25
+    }
+  },
+  "14592836897": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 412.3228339999996,
+      "model": "jev-1.13.0",
+      "inputTokens": 552,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "service",
+      "ms": 9653.871290999989,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 249,
+      "outputTokens": 217
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 653.450582999998,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 340,
+      "outputTokens": 51
+    }
+  },
+  "14592834921": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 438.19216699999924,
+      "model": "jev-1.13.0",
+      "inputTokens": 489,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "service",
+      "ms": 11583.512416000012,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 185,
+      "outputTokens": 273
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 328.002625000001,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 285,
+      "outputTokens": 38
+    }
+  },
+  "14592824908": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.74,
+      "confidence": 0.68,
+      "ms": 578.6562080000003,
+      "model": "jev-1.13.0",
+      "inputTokens": 435,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "praise",
+      "ms": 15571.95841599998,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 127,
+      "outputTokens": 432
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 555.9368329999998,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 230,
+      "outputTokens": 26
+    }
+  },
+  "14592801481": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 527.0424589999993,
+      "model": "jev-1.13.0",
+      "inputTokens": 440,
+      "outputTokens": 0
+    },
+    "gemini": {
+      "answer": "service",
+      "ms": 11384.422250000003,
+      "model": "gemini-3.5-flash",
+      "inputTokens": 135,
+      "outputTokens": 221
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 467.9204580000005,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 236,
+      "outputTokens": 74
+    }
+  },
+  "14592780339": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 371.21237500000007,
+      "model": "jev-1.13.0",
+      "inputTokens": 433,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 607.0064999999959,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 228,
+      "outputTokens": 33
+    }
+  },
+  "14592779759": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 368.791166,
+      "model": "jev-1.13.0",
+      "inputTokens": 446,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 525.346832999996,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 243,
+      "outputTokens": 26
+    }
+  },
+  "14592713952": {
+    "jev": {
+      "answer": "service",
+      "probability": 0.71,
+      "confidence": 0.63,
+      "ms": 379.4249579999996,
+      "model": "jev-1.13.0",
+      "inputTokens": 419,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 201.41212500000256,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 216,
+      "outputTokens": 53
+    }
+  },
+  "14592688389": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 351.93737500000043,
+      "model": "jev-1.13.0",
+      "inputTokens": 495,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 523.7188330000063,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 293,
+      "outputTokens": 42
+    }
+  },
+  "14592671191": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 374.1717090000002,
+      "model": "jev-1.13.0",
+      "inputTokens": 636,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 389.7924590000039,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 435,
+      "outputTokens": 21
+    }
+  },
+  "14592564393": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 381.04604199999994,
+      "model": "jev-1.13.0",
+      "inputTokens": 435,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 581.1440830000065,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 231,
+      "outputTokens": 49
+    }
+  },
+  "14592508645": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 380.7517919999991,
+      "model": "jev-1.13.0",
+      "inputTokens": 517,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 592.6883750000125,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 311,
+      "outputTokens": 41
+    }
+  },
+  "14592504242": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 361.1765830000004,
+      "model": "jev-1.13.0",
+      "inputTokens": 452,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 493.9461670000019,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 246,
+      "outputTokens": 26
+    }
+  },
+  "14592502385": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 399.29349999999977,
+      "model": "jev-1.13.0",
+      "inputTokens": 432,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 542.4562499999884,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 227,
+      "outputTokens": 24
+    }
+  },
+  "14592381752": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 415.958125000001,
+      "model": "jev-1.13.0",
+      "inputTokens": 466,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 503.1151669999963,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 263,
+      "outputTokens": 24
+    }
+  },
+  "14592333975": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 381.5801670000001,
+      "model": "jev-1.13.0",
+      "inputTokens": 451,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 464.046709000002,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 248,
+      "outputTokens": 34
+    }
+  },
+  "14592298944": {
+    "jev": {
+      "answer": "service",
+      "probability": 0.6900000000000001,
+      "confidence": 0.6,
+      "ms": 408.02241700000013,
+      "model": "jev-1.13.0",
+      "inputTokens": 422,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 616.3726670000033,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 219,
+      "outputTokens": 58
+    }
+  },
+  "14592055204": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 412.692708999999,
+      "model": "jev-1.13.0",
+      "inputTokens": 435,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 440.71595899999375,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 231,
+      "outputTokens": 27
+    }
+  },
+  "14592049224": {
+    "jev": {
+      "answer": "service",
+      "probability": 0.98,
+      "confidence": 0.98,
+      "ms": 403.64979200000016,
+      "model": "jev-1.13.0",
+      "inputTokens": 535,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 233.1520840000012,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 328,
+      "outputTokens": 39
+    }
+  },
+  "14591973692": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 406.5680420000008,
+      "model": "jev-1.13.0",
+      "inputTokens": 420,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 556.1437920000026,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 216,
+      "outputTokens": 45
+    }
+  },
+  "14591968854": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 510.5883750000012,
+      "model": "jev-1.13.0",
+      "inputTokens": 420,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 558.3638749999955,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 217,
+      "outputTokens": 26
+    }
+  },
+  "14591879781": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 407.68083300000035,
+      "model": "jev-1.13.0",
+      "inputTokens": 446,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 592.9480829999957,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 242,
+      "outputTokens": 46
+    }
+  },
+  "14591867042": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 408.0798329999998,
+      "model": "jev-1.13.0",
+      "inputTokens": 456,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 536.989499999996,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 249,
+      "outputTokens": 31
+    }
+  },
+  "14591706615": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 350.78033399999913,
+      "model": "jev-1.13.0",
+      "inputTokens": 463,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 497.2090420000022,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 260,
+      "outputTokens": 40
+    }
+  },
+  "14591576776": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 364.27229100000113,
+      "model": "jev-1.13.0",
+      "inputTokens": 427,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 548.3507500000123,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 222,
+      "outputTokens": 29
+    }
+  },
+  "14591354283": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 404.3282909999998,
+      "model": "jev-1.13.0",
+      "inputTokens": 556,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 314.90441699998337,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 351,
+      "outputTokens": 24
+    }
+  },
+  "14591181623": {
+    "jev": {
+      "answer": "service",
+      "probability": 0.99,
+      "confidence": 0.99,
+      "ms": 373.8485409999994,
+      "model": "jev-1.13.0",
+      "inputTokens": 420,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 655.7698329999985,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 217,
+      "outputTokens": 40
+    }
+  },
+  "14591173944": {
+    "jev": {
+      "answer": "praise",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 407.789166999999,
+      "model": "jev-1.13.0",
+      "inputTokens": 418,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 476.2851249999949,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 215,
+      "outputTokens": 49
+    }
+  },
+  "14591021731": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 445.2107500000002,
+      "model": "jev-1.13.0",
+      "inputTokens": 496,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 577.9891669999924,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 292,
+      "outputTokens": 44
+    }
+  },
+  "14590856694": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.99,
+      "confidence": 0.98,
+      "ms": 389.70437500000116,
+      "model": "jev-1.13.0",
+      "inputTokens": 422,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 411.1907089999877,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 217,
+      "outputTokens": 31
+    }
+  },
+  "14590664344": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 341.36116700000093,
+      "model": "jev-1.13.0",
+      "inputTokens": 462,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 446.8745829999971,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 256,
+      "outputTokens": 24
+    }
+  },
+  "14590656282": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 374.4734580000004,
+      "model": "jev-1.13.0",
+      "inputTokens": 429,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 907.2400420000195,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 226,
+      "outputTokens": 31
+    }
+  },
+  "14590651735": {
+    "jev": {
+      "answer": "service",
+      "probability": 0.97,
+      "confidence": 0.96,
+      "ms": 347.0504170000004,
+      "model": "jev-1.13.0",
+      "inputTokens": 446,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 531.6464160000032,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 243,
+      "outputTokens": 103
+    }
+  },
+  "14590632788": {
+    "jev": {
+      "answer": "other",
+      "probability": 0.85,
+      "confidence": 0.82,
+      "ms": 379.705915999999,
+      "model": "jev-1.13.0",
+      "inputTokens": 463,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "feature",
+      "ms": 584.9097499999916,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 260,
+      "outputTokens": 107
+    }
+  },
+  "14590582280": {
+    "jev": {
+      "answer": "praise",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 511.06462499999907,
+      "model": "jev-1.13.0",
+      "inputTokens": 434,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 691.633124999993,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 231,
+      "outputTokens": 64
+    }
+  },
+  "14590113059": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 407.04191600000195,
+      "model": "jev-1.13.0",
+      "inputTokens": 474,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 339.35899999999674,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 274,
+      "outputTokens": 36
+    }
+  },
+  "14589494476": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 405.9457089999996,
+      "model": "jev-1.13.0",
+      "inputTokens": 490,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 373.4487080000108,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 282,
+      "outputTokens": 36
+    }
+  },
+  "14589218469": {
+    "jev": {
+      "answer": "praise",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 408.92920799999774,
+      "model": "jev-1.13.0",
+      "inputTokens": 417,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 603.6830840000184,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 214,
+      "outputTokens": 46
+    }
+  },
+  "14589149172": {
+    "jev": {
+      "answer": "bug",
+      "probability": 0.62,
+      "confidence": 0.52,
+      "ms": 407.24083299999984,
+      "model": "jev-1.13.0",
+      "inputTokens": 419,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "other",
+      "ms": 508.45095800000126,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 216,
+      "outputTokens": 19
+    }
+  },
+  "14588940907": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.94,
+      "confidence": 0.92,
+      "ms": 407.7469170000004,
+      "model": "jev-1.13.0",
+      "inputTokens": 441,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 503.522042000026,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 238,
+      "outputTokens": 38
+    }
+  },
+  "14588696564": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.52,
+      "confidence": 0.4,
+      "ms": 407.8234589999993,
+      "model": "jev-1.13.0",
+      "inputTokens": 418,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 470.61704199999804,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 215,
+      "outputTokens": 59
+    }
+  },
+  "14588654616": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 370.1511250000003,
+      "model": "jev-1.13.0",
+      "inputTokens": 446,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 499.75212499999907,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 242,
+      "outputTokens": 42
+    }
+  },
+  "14588511639": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 446.05466700000034,
+      "model": "jev-1.13.0",
+      "inputTokens": 468,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 376.7695840000233,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 264,
+      "outputTokens": 46
+    }
+  },
+  "14588491467": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 404.22929099999965,
+      "model": "jev-1.13.0",
+      "inputTokens": 461,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 358.6967080000031,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 249,
+      "outputTokens": 29
+    }
+  },
+  "14588395920": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 407.38262499999837,
+      "model": "jev-1.13.0",
+      "inputTokens": 455,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 540.3508330000041,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 251,
+      "outputTokens": 24
+    }
+  },
+  "14588361826": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 396.1059170000008,
+      "model": "jev-1.13.0",
+      "inputTokens": 452,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 306.09645800001454,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 245,
+      "outputTokens": 28
+    }
+  },
+  "14588322943": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 520.8508750000001,
+      "model": "jev-1.13.0",
+      "inputTokens": 423,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 519.4897499999788,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 219,
+      "outputTokens": 71
+    }
+  },
+  "14588154905": {
+    "jev": {
+      "answer": "praise",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 376.4080840000024,
+      "model": "jev-1.13.0",
+      "inputTokens": 418,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 548.0513330000103,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 215,
+      "outputTokens": 65
+    }
+  },
+  "14588081135": {
+    "jev": {
+      "answer": "feature",
+      "probability": 0.61,
+      "confidence": 0.5,
+      "ms": 348.35762500000055,
+      "model": "jev-1.13.0",
+      "inputTokens": 445,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 550.554999999993,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 241,
+      "outputTokens": 98
+    }
+  },
+  "14588057965": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 499.81837500000256,
+      "model": "jev-1.13.0",
+      "inputTokens": 521,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 431.61820799999987,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 318,
+      "outputTokens": 33
+    }
+  },
+  "14587933704": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 406.9955829999999,
+      "model": "jev-1.13.0",
+      "inputTokens": 419,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 506.890625,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 216,
+      "outputTokens": 49
+    }
+  },
+  "14587891523": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 0.99,
+      "ms": 506.3652919999986,
+      "model": "jev-1.13.0",
+      "inputTokens": 425,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 474.4340830000001,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 222,
+      "outputTokens": 70
+    }
+  },
+  "14587756892": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 411.86037499999657,
+      "model": "jev-1.13.0",
+      "inputTokens": 468,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 675.0865839999751,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 264,
+      "outputTokens": 40
+    }
+  },
+  "14587708540": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.97,
+      "confidence": 0.96,
+      "ms": 407.9300830000029,
+      "model": "jev-1.13.0",
+      "inputTokens": 417,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 473.42487499996787,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 214,
+      "outputTokens": 31
+    }
+  },
+  "14587476423": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 510.83054099999936,
+      "model": "jev-1.13.0",
+      "inputTokens": 433,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 581.9635419999831,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 229,
+      "outputTokens": 26
+    }
+  },
+  "14587398535": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 407.07195800000045,
+      "model": "jev-1.13.0",
+      "inputTokens": 485,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 452.56079199997475,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 280,
+      "outputTokens": 42
+    }
+  },
+  "14587325332": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 407.2064160000009,
+      "model": "jev-1.13.0",
+      "inputTokens": 425,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 588.9611670000013,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 222,
+      "outputTokens": 26
+    }
+  },
+  "14587297078": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 400.3134590000009,
+      "model": "jev-1.13.0",
+      "inputTokens": 442,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 493.4798329999903,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 238,
+      "outputTokens": 26
+    }
+  },
+  "14587250711": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 444.2071250000008,
+      "model": "jev-1.13.0",
+      "inputTokens": 464,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 496.60466599999927,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 261,
+      "outputTokens": 36
+    }
+  },
+  "14587240850": {
+    "jev": {
+      "answer": "service",
+      "probability": 0.98,
+      "confidence": 0.97,
+      "ms": 379.6247089999997,
+      "model": "jev-1.13.0",
+      "inputTokens": 421,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 609.7004999999772,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 216,
+      "outputTokens": 50
+    }
+  },
+  "14587218833": {
+    "jev": {
+      "answer": "service",
+      "probability": 0.94,
+      "confidence": 0.93,
+      "ms": 409.2804169999981,
+      "model": "jev-1.13.0",
+      "inputTokens": 421,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 505.90474999998696,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 217,
+      "outputTokens": 37
+    }
+  },
+  "14587118318": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.72,
+      "confidence": 0.65,
+      "ms": 508.69425000000047,
+      "model": "jev-1.13.0",
+      "inputTokens": 422,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 468.3500420000055,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 219,
+      "outputTokens": 50
+    }
+  },
+  "14586959161": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 407.3160409999982,
+      "model": "jev-1.13.0",
+      "inputTokens": 451,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 599.746083999984,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 248,
+      "outputTokens": 71
+    }
+  },
+  "14586946251": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 407.8629589999982,
+      "model": "jev-1.13.0",
+      "inputTokens": 488,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 523.3363750000135,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 285,
+      "outputTokens": 36
+    }
+  },
+  "14586717840": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.99,
+      "confidence": 0.99,
+      "ms": 368.28479100000186,
+      "model": "jev-1.13.0",
+      "inputTokens": 423,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 527.3421669999952,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 220,
+      "outputTokens": 49
+    }
+  },
+  "14586554437": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 354.29591699999946,
+      "model": "jev-1.13.0",
+      "inputTokens": 450,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 463.5135420000297,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 247,
+      "outputTokens": 47
+    }
+  },
+  "14586547231": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.98,
+      "confidence": 0.98,
+      "ms": 356.5699590000004,
+      "model": "jev-1.13.0",
+      "inputTokens": 428,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 639.2205840000533,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 225,
+      "outputTokens": 43
+    }
+  },
+  "14586509321": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 449.9253340000032,
+      "model": "jev-1.13.0",
+      "inputTokens": 461,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 541.3854169999831,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 255,
+      "outputTokens": 38
+    }
+  },
+  "14585637162": {
+    "jev": {
+      "answer": "service",
+      "probability": 0.96,
+      "confidence": 0.95,
+      "ms": 406.27508300000045,
+      "model": "jev-1.13.0",
+      "inputTokens": 438,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 441.89979199995287,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 235,
+      "outputTokens": 40
+    }
+  },
+  "14585250505": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 511.89629200000127,
+      "model": "jev-1.13.0",
+      "inputTokens": 444,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 226.01016700000037,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 241,
+      "outputTokens": 37
+    }
+  },
+  "14585120513": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 382.59262500000114,
+      "model": "jev-1.13.0",
+      "inputTokens": 446,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 539.0865409999969,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 243,
+      "outputTokens": 73
+    }
+  },
+  "14585001528": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 387.3034170000028,
+      "model": "jev-1.13.0",
+      "inputTokens": 469,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 457.37054199998965,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 266,
+      "outputTokens": 36
+    }
+  },
+  "14584959092": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 557.0153750000027,
+      "model": "jev-1.13.0",
+      "inputTokens": 457,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 468.219207999995,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 254,
+      "outputTokens": 20
+    }
+  },
+  "14584900836": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 356.1880420000016,
+      "model": "jev-1.13.0",
+      "inputTokens": 474,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 568.8538340000086,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 271,
+      "outputTokens": 23
+    }
+  },
+  "14584812894": {
+    "jev": {
+      "answer": "service",
+      "probability": 0.85,
+      "confidence": 0.81,
+      "ms": 409.3008750000008,
+      "model": "jev-1.13.0",
+      "inputTokens": 424,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 471.5834159999504,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 221,
+      "outputTokens": 62
+    }
+  },
+  "14584756923": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 397.3479159999988,
+      "model": "jev-1.13.0",
+      "inputTokens": 475,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 219.38175000000047,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 270,
+      "outputTokens": 24
+    }
+  },
+  "14584660991": {
+    "jev": {
+      "answer": "other",
+      "probability": 0.64,
+      "confidence": 0.55,
+      "ms": 382.8653750000012,
+      "model": "jev-1.13.0",
+      "inputTokens": 417,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "other",
+      "ms": 533.9591670000227,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 214,
+      "outputTokens": 59
+    }
+  },
+  "14584548632": {
+    "jev": {
+      "answer": "bug",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 360.32779100000334,
+      "model": "jev-1.13.0",
+      "inputTokens": 431,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "bug",
+      "ms": 492.1701250000042,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 228,
+      "outputTokens": 25
+    }
+  },
+  "14584515656": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 437.8521669999973,
+      "model": "jev-1.13.0",
+      "inputTokens": 603,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 468.39374999998836,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 397,
+      "outputTokens": 25
+    }
+  },
+  "14584432385": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 356.4587080000056,
+      "model": "jev-1.13.0",
+      "inputTokens": 426,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 596.0725420000381,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 223,
+      "outputTokens": 53
+    }
+  },
+  "14584379728": {
+    "jev": {
+      "answer": "other",
+      "probability": 0.63,
+      "confidence": 0.53,
+      "ms": 392.9671660000022,
+      "model": "jev-1.13.0",
+      "inputTokens": 434,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 599.577042000019,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 229,
+      "outputTokens": 58
+    }
+  },
+  "14584379693": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 364.4320000000007,
+      "model": "jev-1.13.0",
+      "inputTokens": 446,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 340.7492079999647,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 243,
+      "outputTokens": 40
+    }
+  },
+  "14584349114": {
+    "jev": {
+      "answer": "service",
+      "probability": 0.94,
+      "confidence": 0.92,
+      "ms": 351.7410419999942,
+      "model": "jev-1.13.0",
+      "inputTokens": 428,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 588.0686249999562,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 222,
+      "outputTokens": 60
+    }
+  },
+  "14584212311": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.9,
+      "confidence": 0.86,
+      "ms": 414.89108300000225,
+      "model": "jev-1.13.0",
+      "inputTokens": 421,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 613.6994589999667,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 218,
+      "outputTokens": 47
+    }
+  },
+  "14584164509": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 460.3451249999998,
+      "model": "jev-1.13.0",
+      "inputTokens": 423,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 425.31429100001696,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 218,
+      "outputTokens": 25
+    }
+  },
+  "14584137450": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 411.8266250000015,
+      "model": "jev-1.13.0",
+      "inputTokens": 567,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 367.5498750000261,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 365,
+      "outputTokens": 25
+    }
+  },
+  "14584056257": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.98,
+      "confidence": 0.97,
+      "ms": 508.69374999999854,
+      "model": "jev-1.13.0",
+      "inputTokens": 417,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 510.73950000002515,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 214,
+      "outputTokens": 48
+    }
+  },
+  "14583943421": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 408.0093329999945,
+      "model": "jev-1.13.0",
+      "inputTokens": 447,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 490.8842499999446,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 242,
+      "outputTokens": 23
+    }
+  },
+  "14583883782": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 357.84929199999897,
+      "model": "jev-1.13.0",
+      "inputTokens": 449,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 528.8135419999599,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 245,
+      "outputTokens": 30
+    }
+  },
+  "14583712544": {
+    "jev": {
+      "answer": "praise",
+      "probability": 0.99,
+      "confidence": 0.99,
+      "ms": 384.67549999999756,
+      "model": "jev-1.13.0",
+      "inputTokens": 417,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "praise",
+      "ms": 475.30012500000885,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 214,
+      "outputTokens": 52
+    }
+  },
+  "14583663980": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 480.8997079999972,
+      "model": "jev-1.13.0",
+      "inputTokens": 636,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 637.6760000000359,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 430,
+      "outputTokens": 36
+    }
+  },
+  "14583402863": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 347.4854170000035,
+      "model": "jev-1.13.0",
+      "inputTokens": 483,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 463.04174999997485,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 278,
+      "outputTokens": 52
+    }
+  },
+  "14583376067": {
+    "jev": {
+      "answer": "service",
+      "probability": 1,
+      "confidence": 1,
+      "ms": 366.5018330000021,
+      "model": "jev-1.13.0",
+      "inputTokens": 465,
+      "outputTokens": 0
+    },
+    "llm": {
+      "answer": "service",
+      "ms": 543.3242090000422,
+      "model": "openai/gpt-oss-20b",
+      "inputTokens": 262,
+      "outputTokens": 39
+    }
+  }
+}

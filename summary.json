@@ -1,0 +1,34 @@
+{
+  "jev": {
+    "reviews": 100,
+    "accuracy": "95% (95/100)",
+    "avg latency": "414 ms",
+    "median latency": "406 ms",
+    "cost (US$)": "$0.0019",
+    "input tokens": 45625,
+    "output tokens": 0,
+    "invalid": 0,
+    "model": "jev-1.13.0"
+  },
+  "llm": {
+    "reviews": 100,
+    "accuracy": "92% (92/100)",
+    "avg latency": "507 ms",
+    "median latency": "511 ms",
+    "cost (US$)": "set PRICE",
+    "input tokens": 25226,
+    "output tokens": 4141,
+    "invalid": 0,
+    "model": "openai/gpt-oss-20b"
+  },
+  "labels": {
+    "service": 80,
+    "bug": 2,
+    "praise": 15,
+    "other": 3
+  },
+  "alwaysMostCommon": {
+    "category": "service",
+    "accuracy": "80%"
+  }
+}
